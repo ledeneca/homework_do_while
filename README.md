@@ -1,1 +1,1 @@
-# homework_do_while
+A simple command-line application.
